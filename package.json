@@ -1,5 +1,5 @@
 {
-  "name": "@vtjs/rabbitmq",
+  "name": "@hiennc/rabbitmq",
   "version": "1.0.0",
   "description": "Queue and Event Bus with Rabbit MQ",
   "main": "lib/index.js",
@@ -43,5 +43,9 @@
   },
   "dependencies": {
     "amqplib": "^0.7.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
