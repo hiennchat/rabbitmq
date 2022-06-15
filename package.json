@@ -1,6 +1,6 @@
 {
   "name": "@vtjs/rabbitmq",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Queue and Event Bus with Rabbit MQ",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -18,13 +18,13 @@
     "rabbitmq",
     "typescript"
   ],
-  "author": "Nguyen Van Tuan",
+  "author": "Hien Nguyen",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vtuanjs/rabbitmq.git"
+    "url": "git+https://github.com/hiennchat/rabbitmq.git"
   },
-  "homepage": "https://github.com/vtuanjs/rabbitmq#readme",
+  "homepage": "https://github.com/hiennchat/rabbitmq#readme",
   "devDependencies": {
     "@types/amqplib": "^0.5.17",
     "@types/chai": "^4.2.18",
